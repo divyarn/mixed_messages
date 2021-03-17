@@ -1,0 +1,1 @@
+console.log('Your inspirational message of the day is - ');
