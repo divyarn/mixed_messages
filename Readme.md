@@ -1,4 +1,4 @@
-#README
+# README
 
-##Description
+## Description
 Project for Codecademy's Full Stack Development Course
